@@ -3,6 +3,7 @@
 ## UBC Key Capabilities in Data Science The Data Science Toolbox 
 
 <img src="https://ubc-mds.github.io/img/mdslogopad.png" width="200px"></img>
+<img src="images/ubc_the_data_science_toolbox.png" width="200x"></img>
 
 ### Assignment 6
 
