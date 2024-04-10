@@ -12,3 +12,5 @@ An overview of how to effectively manage files, projects, and virtual environmen
 
 ![dataset image](images/dataset-image.png)
 ![predictions image](images/predictions.png)
+
+[Report.ipynb](reports/Report.ipynb)
